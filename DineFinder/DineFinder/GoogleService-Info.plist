@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>27655085332-bmltorksa8daq9t2cnvc2b0brn21e396.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.27655085332-bmltorksa8daq9t2cnvc2b0brn21e396</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBFaJxZx-Xh8OxydfwCWgsCqCFlpizWDz0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>27655085332</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>AnnaAydan.DineFinder</string>
+	<key>PROJECT_ID</key>
+	<string>dinefinder-1203a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dinefinder-1203a.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:27655085332:ios:bf0790c1c7eeca5bd37601</string>
+	<key>DATABASE_URL</key>
+	<string>https://dinefinder-1203a-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>
